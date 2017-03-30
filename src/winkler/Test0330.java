@@ -6,6 +6,10 @@ public class Test0330 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Guten Tag Hr. Winkler !!!!");
+		System.out.println("Guten Tag Hr. Winkler !!!!");
+		System.out.println("Guten Tag Hr. Winkler !!!!");
+		System.out.println("Guten Tag Hr. Winkler !!!!");
+		System.out.println("Guten Tag Hr. Winkler !!!!");
 
 	}
 
